@@ -5,7 +5,7 @@ I'm Khant Nyi Nyi Maung. 23 years old student learning ITPEC at Host Myanmar Inf
 Passed Information Passport Examination of ITPEC
 
 Skills 
-C, Python, HTML, CSS, Bootstrap, JavaSE, JavaEE
+C, Python, HTML, CSS, Bootstrap, JavaSE, JavaEE, Spring Boot
 
 I’m currently learning Spring Boot
 
