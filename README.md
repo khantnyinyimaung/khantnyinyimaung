@@ -5,9 +5,9 @@ I'm Khant Nyi Nyi Maung. 23 years old student learning ITPEC at Host Myanmar Inf
 Passed Information Passport Examination of ITPEC
 
 Skills 
-C, Python, HTML, CSS, Bootstrap, JavaSE, JavaEE, Spring Boot
+C, Python, HTML, CSS, JavaScript, Bootstrap, JavaSE, JavaEE, Spring Boot, React
 
-I’m currently learning Spring Boot
+I’m currently learning React
 
 <!--
 **khantnyinyimaung/khantnyinyimaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
