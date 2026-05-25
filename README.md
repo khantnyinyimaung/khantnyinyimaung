@@ -5,11 +5,11 @@
   </a>
 </p>
 
-I am a **23-year-old developer** based in Mandalay, currently pursuing advanced IT studies at **Host Myanmar Info Tech**. I bridge enterprise backend architectures with sleek frontend experiences, always striving to build clean and maintainable code.
+I am a passionate and driven **Junior Full-Stack Developer** based in Mandalay, born in March 2003. Currently, I am honing my enterprise development skills at **MyanmarDCR**, a reputable Japanese software company. I bridge tech and global collaboration seamlessly, striving to build clean, maintainable code with an impactful, modern mindset.
 
 ### 🌟 Milestones & Achievements
-- 🏆 **Passed ITPEC Information Passport (IP) Examination** — Validating core global IT knowledge standards.
-- 🎓 Learning and growing everyday with a youthfully driven mindset.
+- 🏆 **ITPEC Fundamental Information Technology Engineer (FE) Certified** — Demonstrating core global IT engineering standards.
+- 🌍 **JLPT N4 Japanese Language Proficiency Passed** — Equipped for strong global collaboration and multi-cultural technical teamwork.
 
 ---
 
