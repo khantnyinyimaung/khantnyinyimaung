@@ -1,25 +1,61 @@
-Welcome!
+# Hi there, I'm Khant Nyi Nyi Maung 👋
+<p align="left">
+  <a href="https://github.com/khantnyinyimaung">
+    <img src="https://komarev.com/normal-gradient.svg?username=khantnyinyimaung&label=Profile%20Views&color=0078d7&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
-I'm Khant Nyi Nyi Maung. 23 years old student learning ITPEC at Host Myanmar Info Tech
+I am a **23-year-old developer** based in Mandalay, currently pursuing advanced IT studies at **Host Myanmar Info Tech**. I bridge enterprise backend architectures with sleek frontend experiences, always striving to build clean and maintainable code.
 
-Passed Information Passport Examination of ITPEC
+### 🌟 Milestones & Achievements
+- 🏆 **Passed ITPEC Information Passport (IP) Examination** — Validating core global IT knowledge standards.
+- 🎓 Learning and growing everyday with a youthfully driven mindset.
 
-Skills 
-C, Python, HTML, CSS, JavaScript, Bootstrap, JavaSE, JavaEE, Spring Boot, React
+---
 
-I’m currently learning React
+### 🚀 What I'm Up To
+- 🔭 **Current Focus:** Expanding my backend horizons by mastering **VB.NET**.
+- 🌱 **Learning & Improving:** Deepening my ecosystem skills in **React** and modern frontend states.
+- 👯 **Collaboration:** Looking to jump into **Open-Source React Projects**! Feel free to reach out if you want to collaborate.
+- ⚡ **Fun Fact:** I solved my first C program at 19!
 
-<!--
-**khantnyinyimaung/khantnyinyimaung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🖥️ Backend & Systems
+![Java](https://img.shields.io/badge/Java_SE%2FEE-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🌐 Frontend Web Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khantnyinyimaung&layout=compact&theme=tokyonight&hide_border=true" alt="Khant Nyi Nyi Maung's Top Languages" height="180px" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=khantnyinyimaung&show_icons=true&theme=tokyonight&hide_border=true" alt="Khant Nyi Nyi Maung's GitHub Stats" height="180px" />
+</p>
+
+---
+
+### 💬 Let's Connect!
+If you want to talk about React architectures, enterprise Java/VB.NET systems, or open-source opportunities, drop me a line!
+
+- 📬 **Email:** [khantnyinyimaung33@gmail.com](mailto:khantnyinyimaung33@gmail.com)
+- 🖥️ **GitHub:** [github.com/khantnyinyimaung](https://github.com/khantnyinyimaung)
+
+---
+
+### 💡 Daily Dev Quote
+![ReadMe Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
